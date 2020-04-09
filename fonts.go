@@ -11,13 +11,13 @@ import (
 	"golang.org/x/image/font/gofont/gomonobolditalic"
 	"golang.org/x/image/font/gofont/gomonoitalic"
 
-	"github.com/gioapp/jorm/pkg/fonts/bariolbold"
-	"github.com/gioapp/jorm/pkg/fonts/bariolbolditalic"
-	"github.com/gioapp/jorm/pkg/fonts/bariollight"
-	"github.com/gioapp/jorm/pkg/fonts/bariollightitalic"
-	"github.com/gioapp/jorm/pkg/fonts/bariolregular"
-	"github.com/gioapp/jorm/pkg/fonts/bariolregularitalic"
-	"github.com/gioapp/jorm/pkg/fonts/plan9"
+	"github.com/gioapp/fonts/bariolbold"
+	"github.com/gioapp/fonts/bariolbolditalic"
+	"github.com/gioapp/fonts/bariollight"
+	"github.com/gioapp/fonts/bariollightitalic"
+	"github.com/gioapp/fonts/bariolregular"
+	"github.com/gioapp/fonts/bariolregularitalic"
+	"github.com/gioapp/fonts/plan9"
 )
 
 func Register() {
